@@ -1,6 +1,6 @@
 # Mac Adress Changer
 
-Notice: 
+# Notice: 
 The responsibility for the misuse of this tool belongs entirely to the user!
 
 Running only Kali Linux
